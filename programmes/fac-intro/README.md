@@ -32,7 +32,7 @@
 - **Create HTML outline for a tribute page**
     - Pair programming! Two people working on one tribute page together
 
-**Homework**: Complete FCC HTML/Play around with tribute page if completed FCC HTML/
+**Homework**: [Bottom of this here hackmd](https://hackmd.io/SyTk1rWaSK2Yil-ilkWKMA)
 
 ### Week 2 Structure
 
