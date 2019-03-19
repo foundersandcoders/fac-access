@@ -12,7 +12,7 @@
 **week 4:** Codewars
 
 ### Week 1 Structure
-- **_Remember: take attendance at beginning!_**
+- **_Remember: take attendance at beginning, and also let participants know that they should find a moment to let a mentor know if they wouldn't like pictures of themselves to go on social media!_**
 - **Quick intro chat**
 -- Intro FAC for those who don't know; Intro course + why we're doing it; Outline curriculum for next 4 weeks - [Hackmd here](https://hackmd.io/SyTk1rWaSK2Yil-ilkWKMA)
 - **Sign up to Github, freeCodeCamp**
