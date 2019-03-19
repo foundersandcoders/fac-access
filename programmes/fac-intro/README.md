@@ -21,17 +21,14 @@
     - Encourage students to use the Gitter room during the week in between sessions to ask any coding-related questions 
 - **Intro and get started on freeCodeCamp HTML**
     - Individual work, gauge who's ahead
-- **Introduce Pair Programming**
-    - Some slides introducing pair programming. [Hackmd here!](https://hackmd.io/zNtXkVUvSrCLLshFj1jYkw?view)  We'll be introducing a different PP method each week so as to not overload.
-
-- **S E C O N D  H A L F**
-
 - **Intro Codepen + signup**
 - **Introduce examples of tribute page** 
     - [freeCodeCamp Tribute Page project](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/)
     - Show off a few examples, and then pick through and talk about some of the HTML and how it's structured. 
 - **Intro dev tools/inspect**
     - Show students how to mess around with a webpage's HTML in the dev tools: delete the Google doodle etc.
+- **Introduce Pair Programming**
+    - Some slides introducing pair programming. [Hackmd here!](https://hackmd.io/zNtXkVUvSrCLLshFj1jYkw?view)  We'll be introducing a different PP method each week so as to not overload.
 - **Create HTML outline for a tribute page**
     - Pair programming! Two people working on one tribute page together
 
