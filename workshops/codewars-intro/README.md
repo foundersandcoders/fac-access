@@ -20,7 +20,7 @@ _For something easier than 'Basic Algorithm Scripting' that will get participant
 - Explain the stats of a kata, like `satisfaction rating`
 
 ### Mob programme an 8kyu kata :family:
-
+- Make sure to walkthrough and explain the different parts of the training window, like `Instructions` and `Output`
 - Suggestions:
 - https://www.codewars.com/collections/training-js-series-for-javascript-beginner-myjinxin2015
 - https://www.codewars.com/kata/convert-a-number-to-a-string
