@@ -11,3 +11,9 @@ Author: @arrested-developer
 A workshop to introduce Git, Github and Github Pages to prospective applicants. Designed to support applicants to upload and set up their application one-page website.
 
 Author: @arrested-developer
+
+## [Getting Started on Codewars](./codewars-intro)
+
+A short walkthrough on getting started with Codewars. Most of the session will revolve around participants pair programming on katas.
+
+Author: @charlielafosse
