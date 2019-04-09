@@ -8,6 +8,7 @@ _For something easier than 'Basic Algorithm Scripting' that will get participant
 
 ### Intro to Codewars :hatching_chick:
 - [Here are the slides](https://facresources.com/slides/codewars-intro.html#/)
+- [Here's the nicer newer version](https://facresources.com/slides/codewars-intro.html#/)
 - I'd recommend jumping to signup :point_down: after the 'What's Kyu?' slide
 
 ### Signup :clipboard:
