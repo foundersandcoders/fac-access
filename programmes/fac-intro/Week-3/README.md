@@ -7,7 +7,7 @@
 
 **Intro** :wave:
 
-- [What the heck is Javascript anyway?](https://hackmd.io/9vIkK0DYRe-_AqLpU9wA_g) hackmd slides
+- [What the heck is JavaScript anyway?](https://hackmd.io/9vIkK0DYRe-_AqLpU9wA_g) hackmd slides
 
 **Console Codealong** :eyes:
 
@@ -17,18 +17,18 @@
 
 **freeCodeCamp** :tent:
 
-- 'Basic Javascript' section
+- 'Basic JavaScript' section
 
 - Pair up
 
-**Introduce Javascript functions** :dizzy:
+**Introduce JavaScript functions** :dizzy:
 
 - [Slides here](https://hackmd.io/R-qlj2BfTYCkWr3_KbXYEA)
 
 **Repl.it** :book:
 
 - How to use
-- Javascript codealong. Demonstrate:
+- JavaScript codealong. Demonstrate:
 
   1.  Function structure
 
@@ -47,5 +47,5 @@
 
 **Homework**:apple:
 
-- Continue working on freeCodeCamp **'Basic Javascript'** :rocket:
+- Continue working on freeCodeCamp **'Basic JavaScript'** :rocket:
 - If finished with that (very long!) section, 'Basic Data Structures' and 'Basic Algorithm Scripting' would be the next ones to tackle

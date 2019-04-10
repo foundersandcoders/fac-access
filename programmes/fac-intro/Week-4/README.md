@@ -14,7 +14,7 @@
 
 - Pair work
 - Ideally, participants will be familiar with data types, `if` statements and `for` loops by this stage - but no worries if not
-- If anyone's already finished with 'Basic Javascript', recommend them to help others. Or, they could work on 'Basic Data Structures' or 'Basic Algorithm Scripting' if they're paired with someone at the same level
+- If anyone's already finished with 'Basic JavaScript', recommend them to help others. Or, they could work on 'Basic Data Structures' or 'Basic Algorithm Scripting' if they're paired with someone at the same level
 
 **Codewars** :fist:
 

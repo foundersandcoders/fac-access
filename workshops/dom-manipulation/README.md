@@ -11,7 +11,7 @@ Author: @arrested-developer
 
 Open the index.html page from this repo, you can find it [here](https://arrested-developer.github.io/introducing-dom-manipulation/)
 
-Open the dev tools Javascript console in your browser -- In Chrome you can press Command+Option+J (Mac) or Control+Shift+J (PC)
+Open the dev tools JavaScript console in your browser -- In Chrome you can press Command+Option+J (Mac) or Control+Shift+J (PC)
 
 First, type into your console
 
@@ -27,7 +27,7 @@ If we type
 typeof document
 ```
 
-We should see that it is an object. The DOM is how Javascript interacts with a web page, using a Javascript object that initially represents the structure of the HTML page.
+We should see that it is an object. The DOM is how JavaScript interacts with a web page, using a JavaScript object that initially represents the structure of the HTML page.
 
 > Note: On Chrome, you'll see the DOM represented in the console as something that looks very much like an HTML document. In Firefox it may look more like a JS object. If you type `document.` you should see a long list of properties and methods of the DOM
 
@@ -51,7 +51,7 @@ We can select these elements of the page in a few different ways:
 
 ### Step 3 - Changing text content
 
-Although they appear in the Chrome console visually as HTML elements, DOM nodes are Javascript objects, with many properties and methods.
+Although they appear in the Chrome console visually as HTML elements, DOM nodes are JavaScript objects, with many properties and methods.
 
 [What is a Node?](https://www.w3schools.com/js/js_htmldom_navigation.asp)
 
@@ -89,7 +89,7 @@ To add the yellow class, we can write:
 
 ## Step 5 - Add event listeners
 
-To further embed the fun of Javascript interactivity into the DOM, we can add event listeners to elements. There are many different events you can listen for, but some of the most often used are `click`, `onmouseover`, `onload`. They all happen at different times, you can read more [here](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+To further embed the fun of JavaScript interactivity into the DOM, we can add event listeners to elements. There are many different events you can listen for, but some of the most often used are `click`, `onmouseover`, `onload`. They all happen at different times, you can read more [here](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 
 We're going to add a click event listener to the rectangle.
 
@@ -111,7 +111,7 @@ Now we're going to add our new function to an event listener by typing:
 
 ## Step 6 - Directly changing CSS properties
 
-[CSS properties in Javascript](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference) are often written slightly differently than in CSS.
+[CSS properties in JavaScript](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference) are often written slightly differently than in CSS.
 
 To change the left margin of an element we can use:
 

@@ -17,3 +17,10 @@ Author: @arrested-developer
 A short walkthrough on getting started with Codewars. Most of the session will revolve around participants pair programming on katas.
 
 Author: @charlielafosse
+
+## [Introduction to Coding](./intro-to-coding)
+
+A 2-hour session, introducing HTML (and maybe a bit of CSS) for complete beginners. 
+
+Author: @charlielafosse
+

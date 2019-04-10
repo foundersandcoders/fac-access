@@ -2,9 +2,9 @@
 
 A workshop/meetup specifically geared towards helping applicants with tackling Codewars. 
 
-_There may well be participants who haven't started tackling 'Basic Javascript', 'Basic Data Structures' or 'Basic Algorithm Scripting' on freeCodeCamp (or who haven't even started writing JS yet). It'll still be worth them following the walkthrough and the slides, but probably encourage them to start with the aforementioned fCC sections before actually trying to solve kata, as they may feel out of their depth._
+_There may well be participants who haven't started tackling 'Basic JavaScript', 'Basic Data Structures' or 'Basic Algorithm Scripting' on freeCodeCamp (or who haven't even started writing JS yet). It'll still be worth them following the walkthrough and the slides, but probably encourage them to start with the aforementioned fCC sections before actually trying to solve kata, as they may feel out of their depth._
 
-_For something easier than 'Basic Algorithm Scripting' that will get participants used to writing functions, perhaps give [these Javascript challenges](https://hackmd.io/445IJxgQQ1S-inNrt7fndw) a try._
+_For something easier than 'Basic Algorithm Scripting' that will get participants used to writing functions, perhaps give [these JavaScript challenges](https://hackmd.io/445IJxgQQ1S-inNrt7fndw) a try._
 
 ### Intro to Codewars :hatching_chick:
 - [Here are the slides](https://facresources.com/slides/codewars-intro.html#/)
