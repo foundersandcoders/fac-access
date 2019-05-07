@@ -18,6 +18,9 @@
 
 - Encourage students to use the Gitter room in between sessions to ask any questions and share resources
 
+#### Intro to web pages + HTML
+- [Slides here](https://hackmd.io/6OCETj9zTEGnRpdSULkGgQ)
+
 **freeCodeCamp** :tent:
 
 - Introduce how to use it
