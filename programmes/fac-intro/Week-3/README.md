@@ -3,7 +3,7 @@
 **_Before session starts:_**
 
 - _Take attendance_
-- _Check for social media permissions (let participants know that we'll be taking photos of the session and using them on social media - if they wpuld not like us to use their picture on social media, then they should find a moment to let a mentor know)_
+- _Check for social media permissions (let participants know that we'll be taking photos of the session and using them on social media - if they would not like us to use their picture on social media, then they should find a moment to let a mentor know)_
 
 **Intro** :wave:
 
