@@ -19,7 +19,7 @@
 **Codewars** :fist:
 
 - Intro and signup
-- [Codewars tips and jargon busting](https://hackmd.io/ZX34SmmuTsKvowG4TJkfOQ) slides
+- [Codewars tips and jargon busting](http://facresources.com/slides/codewars-intro.html#/) slides 
 
 **Mob programme an 8kyu kata** :family:
 
