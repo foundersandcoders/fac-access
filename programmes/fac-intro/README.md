@@ -1,8 +1,8 @@
 # FAC Short Course :sunflower:
 
-A 4-week course, helping new applicants on the pathways to completing the pre-requisites.
+A 4-week, part-time evening course, aimed at equipping new FAC applicants with the skills they need to start tackling the pre-requisites.
 
-One two-hour session per week, with an expectation of around 2 hours of homework.
+One two-hour session per week, with an expectation of approx. 2 hours of work to do between sessions.
 
 - [**Week 1**](./Week-1): HTML
 - [**Week 2**](./Week-2): CSS

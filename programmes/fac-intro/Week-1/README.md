@@ -1,62 +1,39 @@
-# Week 1 Structure :seedling:
+# Week 1: Toolkit and HTML :seedling:
 
 **_Before session starts:_**
-- Make sure that short course Gitter room is open
-- _Take attendance_
-- _Check for social media permissions (let participants know that we'll be taking photos of the session and using them on social media - if they would not like us to use their picture on social media, then they should find a moment to let a mentor know)_
-- Remind early arrivers to sign up for Github, Gitter, FreeCodeCamp and Codepen (there should be a slide with details that you can display as people come in)
+- Make sure that short course Gitter room is open, and that attendees have joined.
+- Pass around attendance sheet.
+- Check for social media permissions (let participants know that we'll be taking photos of the session and using them on social media - if they would not like us to use their picture on social media, then they should find a moment to let a mentor know).
+- Attendees should've received an email with instructions to sign up for Github, Gitter, freeCodeCamp and Codepen, but it's good to still double check with people as they arrive (there should be a slide with details that you can display as people come in).
 
-## [HackMD for whole lesson today here](https://hackmd.io/KIvSj5VeQVabU6aYm37nTQ)
+### [Incoming link for slide deck...]()
 
-**Course Intro** :wave:
+There are speaker notes, where necessary, in the slide deck - you'll just need to hit `s` to access them. They're also pasted below in italics.
 
-- FAC intro
-- Intro course + curriculum for next 4 weeks
+### Course structure with suggested timings:
 
+(These have been left fairly flexible, as each group is different!)
 
-#### Intro to web pages + HTML
-- On slides
+- #### Welcome to FAC + intro to the short course (10mins)
+    - _While people are arriving, make sure they're signed up for Github, Gitter, freeCodeCamp and Codepen. Also pass round the attendance sheet._
 
-**freeCodeCamp** :tent:
+- #### Intro to web development (5-10mins)
 
-- Introduce how to use it
-- Check that people have signed up for Github, Gitter, FreeCodeCamp and Codepen. Those that have can start working as described below, and those that haven't can do so now! 
-- Work through 'Basic HTML and HTML5' section
-- Let participants initially work individually, and gauge the different experience levels
-- Around 30 minutes
+- #### How to use freeCodeCamp (5mins)
+    -  _Give a quick guide around freeCodeCamp - explain the layout of the challenge window, the different sections, and how to complete a challenge. Perhaps 'mob programme' the first challenge of 'Basic HTML and HTML5' together, before letting students carry on with the challenges by themselves for 20-30mins._
 
-**Dev Tools** :hammer:
+- #### Work on freeCodeCamp (20-30mins)
 
-- Walkalong for inspecting (and editing) a webpage's HTML in the dev tools
-- Get participants to edit/delete some HTML (delete the Google doodle etc.)
+- #### Using Dev Tools (5-10mins)
+    - _Show students how to inspect a webpage, and how to use the dev tools for seeing the HTML under the hood. It can then be fun to delete the HTML for the Google logo, or to mess around and do some editing._
 
-**Introduce Pair Programming** :two_women_holding_hands:
+- #### Intro to Pair Programming (5mins)
+    - _Explain that we'll be covering other pair programming methods in the coming weeks._
 
-- On slides
-- We'll be introducing a different PP method next week so as to not overload.
+- #### Intro to Codepen (5mins)
+    - _Run through how to use Codepen - including how to fork someone else's pen. Show this basic example pen, if need be: https://codepen.io/charlielafosse/pen/pGVZQb_
 
-**Codepen** :pencil:
-
-- How to use - intro to creating and setting up a new pen
-
-**Introduce examples of tribute page** :dizzy:
-
-- [freeCodeCamp Tribute Page project](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/) - contains a lot of complicated requirements, we will be using a more simple version of these in the slides.
-- Show off a few examples, and then pick through and talk about some of the HTML and how it's structured.
-- [Demo of HTML tribute page here](https://codepen.io/charlielafosse/pen/pGVZQb)
-
-**Create HTML outline for a tribute page on Codepen** :muscle:
-- Around 30min
-- Pair programming!
-- Two people working on one tribute page together
-- 5-10 min before End: 
-    - Explanation of how to fork a Codepen so that everyone has their own personal copy
-    - Homework for next week
-
-**Homework** :apple:
-- Complete the HTML of your **tribute page** (you may need to **share your Codepen** with your partner in our gitter room!)
-
-- Complete the **‘Basic HTML and HTML5’** section of freeCodeCamp.
-
-- If you want, do some more messing around with webpages’ HTML in the dev tools :tada:
+- #### Project Work (30-45mins)
+    - _You might want to let pairs spread out and sit elsewhere if the classroom is cramped. Try to stop them at 8.25 so you have time to wrap up._
+    - _Check one last time that you've got everyone's attendance (there may have been latecomers)._
 
