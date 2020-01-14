@@ -6,7 +6,7 @@
 - Check for social media permissions (let participants know that we'll be taking photos of the session and using them on social media - if they would not like us to use their picture on social media, then they should find a moment to let a mentor know).
 - Attendees should've received an email with instructions to sign up for Github, Gitter, freeCodeCamp and Codepen, but it's good to still double check with people as they arrive (there should be a slide with details that you can display as people come in).
 
-### [Incoming link for slide deck...]()
+### [Link for slide deck](http://facresources.com/slides/short-course-week1.html#/)
 
 There are speaker notes, where necessary, in the slide deck - you'll just need to hit `s` to access them. They're also pasted below in italics.
 
